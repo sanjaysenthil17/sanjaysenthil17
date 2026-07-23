@@ -1,0 +1,28 @@
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#0d1117" />
+  <g opacity="0.3">
+    <!-- Connecting Lines -->
+    <line x1="550" y1="50" x2="600" y2="120" stroke="#58a6ff" stroke-width="1" />
+    <line x1="600" y1="120" x2="680" y2="80" stroke="#58a6ff" stroke-width="1" />
+    <line x1="680" y1="80" x2="720" y2="150" stroke="#58a6ff" stroke-width="1" />
+    <line x1="600" y1="120" x2="520" y2="160" stroke="#58a6ff" stroke-width="1" />
+    <!-- Nodes with gentle pulse -->
+    <circle cx="550" cy="50" r="3" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="1" fill="freeze"/>
+    </circle>
+    <circle cx="600" cy="120" r="4" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="1" fill="freeze"/>
+    </circle>
+    <circle cx="680" cy="80" r="3" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="1" fill="freeze"/>
+    </circle>
+    <circle cx="720" cy="150" r="2" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="1" fill="freeze"/>
+    </circle>
+    <circle cx="520" cy="160" r="3" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="1" fill="freeze"/>
+    </circle>
+  </g>
+  <text x="40" y="100" font-family="sans-serif" font-weight="bold" font-size="32" fill="#c9d1d9">Sanjay Senthil</text>
+  <text x="40" y="135" font-family="monospace" font-size="16" fill="#8b949e">AI Engineer // Building ML systems that ship.</text>
+</svg>

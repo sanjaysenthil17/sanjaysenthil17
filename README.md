@@ -1,11 +1,12 @@
-# 👨‍💻 Sanjay Senthil | AI Engineer
-**Building ML systems that ship, not just notebooks that run.**
+<div align="center">
+  <img src="assets/header.svg" width="800" alt="Sanjay Senthil AI Engineer Banner" />
+</div>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 `[ SYSTEM STATUS ]` 🟢 **Open to work** | 🏢 Final Year Student | 🏗️ Currently building: **[Project Name]**
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### 🚀 Featured Work
 
@@ -27,7 +28,7 @@ Built: (Python, Monte Carlo Methods).
 Result: Simulated probabilistic outcomes to optimize supply chain decision-making under uncertainty. 
 [Repo](https://github.com/sanjaysenthil17/Monte-Carlo-Simulation-in-supply-chain-management)
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### 💻 Core Stack
 
@@ -35,14 +36,19 @@ Result: Simulated probabilistic outcomes to optimize supply chain decision-makin
 - **Backend & Infra:** FastAPI, Node.js, Docker, AWS (EC2, S3)
 - **Tools:** Git, GitHub Actions, Linux/Bash, Terraform
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### 📡 Live Feed
 <!-- LATEST_COMMIT_START -->
 > ⚡ Latest Commit: sanjaysenthil17/portfolio - "chore: update build configs" (2h ago)
 <!-- LATEST_COMMIT_END -->
 
----
+### 🧠 Neural Activity (Last 365 Days)
+<div align="center">
+  <img src="assets/neural_graph.svg" width="800" alt="Contribution Graph" />
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="divider" />
 
 ### 🧠 How I Approach Engineering
 I believe in starting with the simplest baseline model before reaching for complex architectures. My focus is on writing clean, modular code that bridges the gap between data science and production engineering. To me, a model isn't finished until it's deployed and monitored in the real world.
@@ -57,5 +63,6 @@ I believe in starting with the simplest baseline model before reaching for compl
 - **Personal:** [Authentic detail, e.g., I restore vintage mechanical keyboards in my free time.]
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider" />
+
 [Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
