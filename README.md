@@ -65,4 +65,4 @@ I believe in starting with the simplest baseline model before reaching for compl
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
 
-[Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:youremail@example.com)
+[Portfolio](https://sanjaysenthil17.github.io/) • [LinkedIn](https://linkedin.com/in/sanjay-senthil-367909308) • [Email](mailto:ssanjaychakravar@gmail.com)
