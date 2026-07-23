@@ -9,23 +9,23 @@
 
 ### 🚀 Featured Work
 
-**[Project 1 Name]** 
-Problem: [Briefly describe the problem, e.g., High latency in real-time object detection].
-Built: (Python, PyTorch, TensorRT, FastAPI). 
-Result: [Metric, e.g., Reduced inference latency by 40% while maintaining 95% mAP]. 
-[Live](#) | [Repo](#)
+**[Real-Time Multimodal Emotion Detection](https://github.com/sanjaysenthil17/Real-Time-Multimodal-Emotion-Detection-with-YOLO-ViT-and-Spark-Streaming)** 
+Problem: Needed a scalable pipeline for real-time edge-to-cloud emotion analytics.
+Built: (Python, YOLO, ViT, Spark Structured Streaming, HDFS, Scala). 
+Result: Built an end-to-end pipeline syncing webcam frames to HDFS, processing Bronze/Silver/Gold layers for windowed KPIs. 
+[Repo](https://github.com/sanjaysenthil17/Real-Time-Multimodal-Emotion-Detection-with-YOLO-ViT-and-Spark-Streaming)
 
-**[Project 2 Name]** 
-Problem: [Briefly describe the problem, e.g., Unstructured medical documents were unsearchable].
-Built: (Python, LangChain, PostgreSQL, pgvector). 
-Result: [Metric, e.g., Built an RAG pipeline reducing query time from hours to 2 seconds]. 
-[Live](#) | [Repo](#)
+**[Music Emotion Recognition](https://github.com/sanjaysenthil17/Music-Emotion-Recognition-using-CNN-and-HuBert)** 
+Problem: Extracting nuanced emotional signals from raw audio waveforms.
+Built: (Python, CNNs, HuBert). 
+Result: Implemented state-of-the-art audio models to accurately classify music emotion. 
+[Repo](https://github.com/sanjaysenthil17/Music-Emotion-Recognition-using-CNN-and-HuBert)
 
-**[Project 3 Name]** 
-Problem: [Briefly describe the problem, e.g., Cloud compute bills were scaling unsustainably].
-Built: (AWS EC2, Docker, Terraform). 
-Result: [Metric, e.g., Containerized distributed training, cutting cloud costs by 30%]. 
-[Repo](#)
+**[Monte Carlo Simulation in Supply Chain](https://github.com/sanjaysenthil17/Monte-Carlo-Simulation-in-supply-chain-management)** 
+Problem: Unpredictable variables leading to supply chain inefficiencies and stockouts.
+Built: (Python, Monte Carlo Methods). 
+Result: Simulated probabilistic outcomes to optimize supply chain decision-making under uncertainty. 
+[Repo](https://github.com/sanjaysenthil17/Monte-Carlo-Simulation-in-supply-chain-management)
 
 ---
 
