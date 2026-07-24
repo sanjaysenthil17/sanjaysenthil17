@@ -374,7 +374,8 @@
   <circle cx="765.6603773584906" cy="35.714285714285715" r="1" fill="#30363d" opacity="0.3"/>
   <circle cx="765.6603773584906" cy="51.42857142857143" r="1" fill="#30363d" opacity="0.3"/>
   <circle cx="765.6603773584906" cy="67.14285714285714" r="1" fill="#30363d" opacity="0.3"/>
-  <circle cx="765.6603773584906" cy="82.85714285714286" r="2.75" fill="#58a6ff" opacity="0.6499999999999999" filter="url(#glow)"/>
+  <circle cx="765.6603773584906" cy="82.85714285714286" r="3.0" fill="#58a6ff" opacity="0.72" filter="url(#glow)"/>
+  <circle cx="765.6603773584906" cy="98.57142857142857" r="1" fill="#30363d" opacity="0.3"/>
   <line x1="177.73584905660377" y1="98.57142857142857" x2="177.73584905660377" y2="114.28571428571428" stroke="#58a6ff" stroke-width="0.5" opacity="0.165" />
-  <text x="20" y="145" font-family="monospace" font-size="10" fill="#8b949e">> SYSTEM_LOG: 26 neural activations in the last 365 days.</text>
+  <text x="20" y="145" font-family="monospace" font-size="10" fill="#8b949e">> SYSTEM_LOG: 27 neural activations in the last 365 days.</text>
 </svg>
